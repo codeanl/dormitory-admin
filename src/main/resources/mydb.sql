@@ -36,7 +36,7 @@ CREATE TABLE `admin` (
 -- Records of admin
 -- ----------------------------
 BEGIN;
-INSERT INTO `admin` (`id`, `username`, `password`, `issuper`, `sex`, `age`, `phone`) VALUES (1, 'Zhiyuan', 'LKVOBELFk4', 0, '男', 35, '76053434623');
+INSERT INTO `admin` (`id`, `username`, `password`, `issuper`, `sex`, `age`, `phone`) VALUES (1, 'admin', 'admin', 1, '男', 35, '76053434623');
 INSERT INTO `admin` (`id`, `username`, `password`, `issuper`, `sex`, `age`, `phone`) VALUES (2, 'Zitao', 'KpvUryXqtn', 0, '男', 34, '13053452364');
 INSERT INTO `admin` (`id`, `username`, `password`, `issuper`, `sex`, `age`, `phone`) VALUES (3, 'Jiehong', 'tMjH1JSLXP', 1, '男', 34, '7605545582');
 INSERT INTO `admin` (`id`, `username`, `password`, `issuper`, `sex`, `age`, `phone`) VALUES (4, 'Jiehong', 'XdLRLsdXBL', 1, '男', 41, '76968200986');
