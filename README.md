@@ -12,11 +12,9 @@
 
 ### 项目演示
 
-![截屏2023-02-18 02.57.43](/Users/gygy/Desktop/截屏2023-02-18 02.57.43.png)
-
-![截屏2023-02-18 03.12.55](/Users/gygy/Desktop/截屏2023-02-18 03.12.55.png)
-
-![截屏2023-02-18 02.58.07](/Users/gygy/Desktop/截屏2023-02-18 02.58.07.png)
+![截屏2023-02-18 03.12.55.png](https://s2.loli.net/2023/02/18/PkGX9TH8I674KD2.png)
+![截屏2023-02-18 02.57.50.png](https://s2.loli.net/2023/02/18/doexb2uKazCmG9g.png)
+![截屏2023-02-18 02.58.07.png](https://s2.loli.net/2023/02/18/ScNFjQeB48gfrHY.png)
 
 ### 技术选型
 
