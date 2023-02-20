@@ -30,16 +30,16 @@
 ```g
 main
 	└──java
-	│		└── com.dormitooryadmin
-	│   │   ├── controller
-	│   │		├── dao 
+            └── com.dormitooryadmin
+	│   │     ├── controller
+	│   │	  ├── dao 
 	│   │	  ├── model 
 	│   │	  └── service 
 	│   └── resources
   	│   │	  ├── static 
   	│   │	  └── template
- 	 └──test  │
-   		└──java
+ 	└──test   │
+   	    └──java
    		  └── com.dormitooryadmin
    			
 ```
