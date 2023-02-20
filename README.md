@@ -36,11 +36,11 @@ main
 	│   │	  ├── model 
 	│   │	  └── service 
 	│   └── resources
-  │   │	  ├── static 
-  │   │	  └── template
-  └──test │
+  	│   │	  ├── static 
+  	│   │	  └── template
+ 	 └──test  │
    		└──java
-   				└── com.dormitooryadmin
+   		  └── com.dormitooryadmin
    			
 ```
 
