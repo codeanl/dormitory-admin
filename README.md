@@ -20,7 +20,7 @@
 
 | 技术       | 说明         | 官网                                             |
 | ---------- | ------------ | ------------------------------------------------ |
-| Springboot | Java         | https://vuejs.org/                               |
+| Springboot | Java         | https://vuejs.org/                              |
 | LayUI      | 前端UI框架   | https://layui.gitee.io/v2/docs/element/anim.html |
 | X-admin    | 前端开源项目 | http://x.xuebingsi.com/                          |
 | jQuery     | 前端框架     | https://jquery.com/                              |
